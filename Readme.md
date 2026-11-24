@@ -9,4 +9,4 @@ dotnet run
 ## Dastur natijasi
 
 
-![Dastur kodi va terminalda mashqlarning ishlash natijasi](images/result.png)
+![Dastur kodi va terminalda mashqlarning ishlash natijasi](assets/result.png)
